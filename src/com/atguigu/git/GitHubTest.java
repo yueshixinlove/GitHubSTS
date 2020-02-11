@@ -5,5 +5,6 @@ public class GitHubTest {
 		System.out.println("love from yueshixin");
 		System.out.println("OK");
 		System.out.println("YES");
+		System.out.println("test dev branch");
 	}
 }
